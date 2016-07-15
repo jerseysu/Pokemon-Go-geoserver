@@ -1,0 +1,3 @@
+[submodule "Pokemon-Go-geoserver/Pokemon-Go-Controller"]
+	path = Pokemon-Go-geoserver/Pokemon-Go-Controller
+	url = https://github.com/jerseysu/Pokemon-Go-Controller.git
