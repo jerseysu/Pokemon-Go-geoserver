@@ -31,7 +31,7 @@ def generateXML():
 			print "Location Updated!", "latitude:", geo["lat"], "longitude:" ,geo["lng"]
 
 def start():
-	while True:
-		generateXML()
+	#while True:
+	generateXML()
 
 start()
